@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  background-color: palevioletred;
+  color: black;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+.card{
+  width: 800px;
+  margin: 10px auto;
+  padding: 10px;
+  border: 1px solid palevioletred;
+  border-radius: 10px;
+  box-shadow: 0 10px 10px palevioletred;
+}
